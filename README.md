@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Wondesen Teshome Bekele
+- 👋 Hi, I’m WTB
 - 👀 I’m interested in Data and AI
 - 🌱 I’m currently learning PhD-SDC
-- 📫 How to reach me https://www.linkedin.com/in/wondesen-teshome-bekele-285148123/
+- 📫 How to reach me 
 
 
 <!---
